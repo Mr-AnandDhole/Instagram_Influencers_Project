@@ -13,7 +13,7 @@
     9. Total Likes: Total likes the user has got on their posts.
     10. Country Or Region: Country or region of origin of the user.
     
-**Analysis the find the solution for th questions mentioned below:**
+**Find the solutions for the questions mentioned below:**
     
     1. Name Max co-efficent of Co-Related features   
     2. Frequency Distributions of Features namely 
